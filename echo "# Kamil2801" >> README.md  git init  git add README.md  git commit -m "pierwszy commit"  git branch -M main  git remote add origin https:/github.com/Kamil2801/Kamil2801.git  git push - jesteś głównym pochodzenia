@@ -1,0 +1,7 @@
+echo "# Kamil2801" >> README.md 
+git init 
+git add README.md 
+git commit -m "pierwszy commit" 
+git branch -M main 
+git remote add origin https://github.com/Kamil2801/Kamil2801.git
+ git push - jesteś głównym pochodzenia
